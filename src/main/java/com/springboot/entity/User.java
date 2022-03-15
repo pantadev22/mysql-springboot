@@ -33,6 +33,11 @@ public class User {
 	
 	private String number;
 	
+	private String number2;
+
+	private String number1;
+
+	
 	
 	
 

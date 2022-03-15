@@ -29,7 +29,7 @@ public class User {
 	private String contactNumber; 
 	
 	
-	
+	private String number;
 	
 	
 	

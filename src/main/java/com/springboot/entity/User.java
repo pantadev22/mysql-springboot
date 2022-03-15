@@ -28,6 +28,8 @@ public class User {
 	@Column(name = "User_Contact_Number")
 	private String contactNumber; 
 	
+	private String address;
+	
 	
 	private String number;
 	
